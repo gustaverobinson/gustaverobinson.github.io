@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Gus Robinson - Research Associate
-description: Gus Robinson is a research associate at NWEA Learning Sciences focusing on educational achievement as well as equity and accessibility in education.
+title: Gus Robinson | Research Associate, NWEA Learning Sciences
+description: Gus Robinson is a research associate at NWEA Learning Sciences. His research focuses on student growth, curricualar opportunities, and equity in education.
 # show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-# google_analytics: [Your Google Analytics tracking ID]
+google_analytics: G-G5YN3PCLS9
