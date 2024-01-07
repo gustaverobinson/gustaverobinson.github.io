@@ -2,11 +2,6 @@
 layout: default
 ---
 
-# About
-* * *
-
-I am a research associate at [NWEA Learning Sciences](https://www.nwea.org/research/). My current research focuses on student growth, curricular opportunities, and equity in education.
-
 # Experience
 * * *
 
