@@ -10,6 +10,7 @@ layout: default
 # Education
 * * *
 
+Tufts University
 
 
 # Presentations
