@@ -52,46 +52,49 @@ layout: default
 * * *
 
 <div class="resume-row">
-  <div class="resume-left">University of Wisconsin–Madison</div>
+  <div class="resume-left">University of Wisconsin–Madison, M.S. Statistics</div>
   <div class="resume-right"></div>
 </div>
-<div class="resume-subrow">
-  <div>M.S. Statistics</div>
-</div>
 
-* **Coursework:** Mathematical Statistics, Advanced Statistical Methods, Interpretable Machine Learning
+* Selected Coursework: Mathematical Statistics, Advanced Statistical Methods, Interpretable Machine Learning
 
 <div class="resume-row">
-  <div class="resume-left">Tufts University</div>
+  <div class="resume-left">Tufts University, B.S. Quantitative Economics and International Relations</div>
   <div class="resume-right"></div>
 </div>
-<div class="resume-subrow">
-  <div>B.S. Quantitative Economics and International Relations</div>
-</div>
-
-* **Coursework:** Econometrics, Microeconomics, Statistics, Quantitative Economics, Nonfiction Writing
-
 
 <!-- GUS ROBINSON PUBLICATIONS -->
 # Publications
 * * *
 
-
 <div class="pub-row">
-  <div class="pub-date">December 2022</div>
-  <div class="pub-reference">Agan, A., <strong>Robinson, G.,</strong> & Sonterblum, L. Researching racial equity: Evaluating “Ban the Box” policies. Blog post for the Abdul Latif Jameel Poverty Action Lab (J-PAL). [LINK]</div>
+  <div class="pub-date">July 2025</div>
+  <div class="pub-reference">Kuhfeld, M., <strong>Robinson, G.,</strong> Isaacs, J., Postell, P., Lee, J., & Ottmar, E. High School Math Course-Taking: Shifts in Access and Achievement Post-COVID-19. <em>AERA Open</em>, 11. <a href="https://doi.org/10.1177/23328584251353514" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/23328584251353514</a></div>
 </div>
 
 <div class="pub-row">
-  <div class="pub-date">PLACEHOLDER</div>
-  <div class="pub-reference"><strong>Skywalker, L.</strong> (2024). "ARTICLE NAME" <em>JOURNAL</em>, 5(1), 12-19.</div>
+  <div class="pub-date">May 2025</div>
+  <div class="pub-reference">Kuhfeld, M., Lewis, K., & <strong>Robinson, G.</strong> Boys regain the advantage in middle school STEM skills: Post-COVID trends in gender achievement gaps. Research brief for NWEA. [<a href="https://www.nwea.org/research/publication/boys-regain-the-advantage-in-middle-school-stem-skills-post-covid-trends-in-gender-achievement-gaps/" target="_blank" rel="noopener noreferrer">LINK</a>]</div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-date">September 2024</div>
+  <div class="pub-reference">Kowalski, S., Peters, S., Kuhfeld, K., <strong>Robinson, G.,</strong> & Lewis, K. COVID’s Impact on Science Achievement: Trends from 2019 through 2024. Research brief for NWEA. [<a href="https://files.eric.ed.gov/fulltext/ED660585.pdf" target="_blank" rel="noopener noreferrer">LINK</a>]</div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-date">December 2022</div>
+  <div class="pub-reference">Agan, A., <strong>Robinson, G.,</strong> & Sonterblum, L. Researching racial equity: Evaluating “Ban the Box” policies. Blog post for the Abdul Latif Jameel Poverty Action Lab (J-PAL). [<a href="https://www.povertyactionlab.org/blog/12-16-22/researching-racial-equity-evaluating-ban-box-policies" target="_blank" rel="noopener noreferrer">LINK</a>]</div>
 </div>
 
 
 # Presentations
 * * *
-March 2024
-Robinson, G., Lee, J., Ottmar, E., Kuhfeld, M., Isaacs, J., & Postell, S. 8th Grade Algebra during COVID-19: A comparison of access and achievement. Poster presented at Association for Education Finance and Policy (AEFP). Baltimore, MD.
 
-October 2023
-Robinson, G. Descriptive Analysis of Race/Ethnicity measurement in NWEA Education Data. Work in progress presented at the Innovations in Measuring, Analyzing, and Discussing Race and Racial Inequality in Education Research and Journalism conference. Portland, OR.
+
+
+November 2024 Robinson, G. & Gaddis, S. An Analysis of Race/Ethnicity Measurement in NWEA’S MAP Growth Education Data. Panel presentation at Association of Public Policy and Management (APPAM). National Harbor, MD.
+
+March 2024       Robinson, G., Lee, J., Ottmar, E., Kuhfeld, M., Isaacs, J., & Postell, S. 8th Grade Algebra during COVID-19: A comparison of access and achievement. Poster presented at Association for Education Finance and Policy (AEFP). Baltimore, MD.
+
+October 2023    Robinson, G. Descriptive Analysis of Race/Ethnicity measurement in NWEA Education Data. Work in progress presented at the Innovations in Measuring, Analyzing, and Discussing Race and Racial Inequality in Education Research and Journalism conference. Portland, OR.
