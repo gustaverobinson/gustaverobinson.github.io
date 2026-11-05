@@ -55,8 +55,7 @@ layout: default
   <div class="resume-left">University of Wisconsin–Madison, M.S. Statistics</div>
   <div class="resume-right"></div>
 </div>
-
-* Selected Coursework: Mathematical Statistics, Advanced Statistical Methods, Interpretable Machine Learning
+*Selected Coursework:* Mathematical Statistics, Advanced Statistical Methods, Interpretable Machine Learning
 
 <div class="resume-row">
   <div class="resume-left">Tufts University, B.S. Quantitative Economics and International Relations</div>
@@ -69,7 +68,7 @@ layout: default
 
 <div class="pub-row">
   <div class="pub-date">July 2025</div>
-  <div class="pub-reference">Kuhfeld, M., <strong>Robinson, G.,</strong> Isaacs, J., Postell, P., Lee, J., & Ottmar, E. High School Math Course-Taking: Shifts in Access and Achievement Post-COVID-19. <em>AERA Open</em>, 11. <a href="https://doi.org/10.1177/23328584251353514" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/23328584251353514</a></div>
+  <div class="pub-reference">Kuhfeld, M., <strong>Robinson, G.,</strong> Isaacs, J., Postell, P., Lee, J., & Ottmar, E. High School Math Course-Taking: Shifts in Access and Achievement Post-COVID-19. <em>AERA Open</em>, 11. <a href="https://doi.org/10.1177/23328584251353514" target="_blank" rel="noopener noreferrer">[LINK]</a></div>
 </div>
 
 <div class="pub-row">
@@ -91,10 +90,17 @@ layout: default
 # Presentations
 * * *
 
+<div class="pub-row">
+  <div class="pub-date">November 2024</div>
+  <div class="pub-reference"><strong>Robinson, G.</strong> & Gaddis, S. An Analysis of Race/Ethnicity Measurement in NWEA’S MAP Growth Education Data. Panel presentation at Association of Public Policy and Management (APPAM). National Harbor, MD.</div>
+</div>
 
+<div class="pub-row">
+  <div class="pub-date">March 2024</div>
+  <div class="pub-reference"><strong>Robinson, G.,</strong> Lee, J., Ottmar, E., Kuhfeld, M., Isaacs, J., & Postell, S. 8th Grade Algebra during COVID-19: A comparison of access and achievement. Poster presented at Association for Education Finance and Policy (AEFP). Baltimore, MD.</div>
+</div>
 
-November 2024 Robinson, G. & Gaddis, S. An Analysis of Race/Ethnicity Measurement in NWEA’S MAP Growth Education Data. Panel presentation at Association of Public Policy and Management (APPAM). National Harbor, MD.
-
-March 2024       Robinson, G., Lee, J., Ottmar, E., Kuhfeld, M., Isaacs, J., & Postell, S. 8th Grade Algebra during COVID-19: A comparison of access and achievement. Poster presented at Association for Education Finance and Policy (AEFP). Baltimore, MD.
-
-October 2023    Robinson, G. Descriptive Analysis of Race/Ethnicity measurement in NWEA Education Data. Work in progress presented at the Innovations in Measuring, Analyzing, and Discussing Race and Racial Inequality in Education Research and Journalism conference. Portland, OR.
+<div class="pub-row">
+  <div class="pub-date">October 2023</div>
+  <div class="pub-reference"><strong>Robinson, G.</strong> Descriptive Analysis of Race/Ethnicity measurement in NWEA Education Data. Work in progress presented at the Innovations in Measuring, Analyzing, and Discussing Race and Racial Inequality in Education Research and Journalism conference. Portland, OR.</div>
+</div>
