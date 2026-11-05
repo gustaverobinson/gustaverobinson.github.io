@@ -8,7 +8,7 @@ layout: default
 * * *
 
 <div class="resume-row">
-  <div class="resume-left">NWEA Learning Sciences</div>
+  <div class="resume-left">NWEA</div>
   <div class="resume-right">June 2023-Present</div>
 </div>
 <div class="resume-subrow">
@@ -40,7 +40,7 @@ layout: default
   <div>July 2022-May 2023</div>
 </div>
 
-* Built data management infrastructure for a randomized controlled trial on an intervention to improve maternal health outcomes and trained other research staff on its use
+* Built data management infrastructure for a randomized controlled trial of an intervention to improve maternal health outcomes and trained other research staff on its use
 * Created training resources on statistical power calculations and data validation for research staff working on randomized controlled trials
 * Analyzed the landscape of experimental research focused on higher education to identify areas where J-PAL North America should expand its research generation and dissemination activities
 * Conducted background research and reviewed academic literature on racial disparities in the field of economics to support grant proposals
@@ -61,6 +61,7 @@ layout: default
   <div class="resume-left">Tufts University, B.S. Quantitative Economics and International Relations</div>
   <div class="resume-right"></div>
 </div>
+
 
 <!-- GUS ROBINSON PUBLICATIONS -->
 # Publications
@@ -87,6 +88,7 @@ layout: default
 </div>
 
 
+<!-- GUS ROBINSON PRESENTATIONS -->
 # Presentations
 * * *
 
@@ -104,3 +106,10 @@ layout: default
   <div class="pub-date">October 2023</div>
   <div class="pub-reference"><strong>Robinson, G.</strong> Descriptive Analysis of Race/Ethnicity measurement in NWEA Education Data. Work in progress presented at the Innovations in Measuring, Analyzing, and Discussing Race and Racial Inequality in Education Research and Journalism conference. Portland, OR.</div>
 </div>
+
+
+<!-- GUS ROBINSON CONTACT INFORMATION -->
+# Contact
+* * *
+
+Send me a message on [LinkedIn](https://www.linkedin.com/in/gus-robinson/).
