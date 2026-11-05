@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Custom styles for your profile photo
+.profile-avatar {
+  display: block;
+  margin: 0 auto 1.5rem auto; // Centers image and adds space below it
+  width: 120px;               // Forces uniform width
+  height: 120px;              // Forces uniform height
+  border-radius: 50%;         // Makes it a perfect circle
+  border: 3px solid rgba(255, 255, 255, 0.6); // Modern subtle border
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); // Smooth drop shadow
+}
