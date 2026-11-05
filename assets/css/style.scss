@@ -50,3 +50,24 @@
   margin-bottom: 0.5rem;
   font-style: italic;
 }
+
+
+// Publications Section Layout
+.pub-row {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: flex-start; // Keeps content aligned to the top if text wraps
+}
+
+.pub-date {
+  flex: 0 0 120px;       // Forces the date column to be exactly 120px wide (no shrinking or growing)
+  font-weight: bold;
+  color: #555;
+  text-align: left;      // Keeps the date left-aligned within its column
+}
+
+.pub-reference {
+  flex: 1;               // Allows the reference text to take up all remaining horizontal space
+  text-align: left;      // Left-justifies the reference text
+  padding-left: 10px;    // Adds a tiny bit of breathing room between the date and the reference
+}
