@@ -12,3 +12,41 @@
   border: 3px solid rgba(255, 255, 255, 0.6); // Modern subtle border
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); // Smooth drop shadow
 }
+
+
+// Resume Formatting
+.resume-section-header {
+  border-bottom: 2px solid #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.resume-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.2rem;
+}
+
+.resume-left {
+  font-weight: bold;
+  text-align: left;
+}
+
+.resume-right {
+  text-align: right;
+  font-style: italic;
+  color: #555;
+}
+
+.resume-subrow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+}
